@@ -25,6 +25,32 @@ Step 3: Verify Data in Data View
                    <img width="1910" height="999" alt="Screenshot 2026-02-12 120632" src="https://github.com/user-attachments/assets/ad3aed68-a274-4daf-9dc8-7504adabb296" />
            ○ Is “Sales” formatted as Decimal Number?
                    <img width="1789" height="735" alt="Screenshot 2026-02-12 120718" src="https://github.com/user-attachments/assets/98b4284f-8db0-46c6-a301-b36e2d89e2da" />
+                   
+PART 2: Exploring the Interface
+        <img width="1919" height="1027" alt="Screenshot 2026-02-12 121239" src="https://github.com/user-attachments/assets/b3732db7-fb5a-4dae-a9c3-92b5bc348600" />
+        
+PART 3: Creating Auto-Generated Visuals
+
+Step 1: Quick Visualization
+        1. Drag Sales into canvas & 2. Power BI automatically creates a visual
+              <img width="1754" height="619" alt="Screenshot 2026-02-12 121752" src="https://github.com/user-attachments/assets/a9a3346b-66cc-4216-bbfc-583acc726aa6" />
+        Question:
+              ● What type of chart was created?
+              - It a Clustered Column Chart
+              ● What does it show?
+              - Its shows that the sume of sale is 220229
+Step 2: Create a Sales by Region Chart
+        1. Click blank canvas & 2. Select Clustered Column Chart
+              <img width="1698" height="694" alt="Screenshot 2026-02-12 145106" src="https://github.com/user-attachments/assets/a55f7b15-63ba-46d8-adea-0586abcc1524" />
+        3. Drag: ○ Region → X-axis , ○ Sales → Values
+              <img width="1707" height="628" alt="image" src="https://github.com/user-attachments/assets/7e8a577b-bc84-4334-8de9-8d342b7ed5ec" />
+        Question:
+          ● Which region has highest sales?
+              - Its a the WEST region got the highest s
+  
+
+
+
 
 
 
