@@ -46,7 +46,18 @@ Step 2: Create a Sales by Region Chart
               <img width="1707" height="628" alt="image" src="https://github.com/user-attachments/assets/7e8a577b-bc84-4334-8de9-8d342b7ed5ec" />
         Question:
           ● Which region has highest sales?
-              - Its a the WEST region got the highest s
+              - Its a the WEST region who got the highest sum of sales that 59041
+Step 3: Sales by Category
+        1. Insert a Pie Chart
+          <img width="1616" height="578" alt="Screenshot 2026-02-12 145804" src="https://github.com/user-attachments/assets/52c2d7e9-3a2c-47ee-856c-ba0d1984077a" />
+        2. Drag: ○ Category → Legend, ○ Sales → Values
+          <img width="1403" height="588" alt="image" src="https://github.com/user-attachments/assets/811e5543-a9d6-42d8-9901-24937188e5b1" />
+        Question:
+          ● Which category dominates?
+           - Its the Electronic 
+          ● Is the distribution balanced?
+           - 
+
   
 
 
