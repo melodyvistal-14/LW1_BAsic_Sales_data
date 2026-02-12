@@ -56,7 +56,20 @@ Step 3: Sales by Category
           ● Which category dominates?
            - Its the Electronic 
           ● Is the distribution balanced?
-           - 
+           - The distribution is not balanced.
+Step 4: Sales Over Time
+        1. Insert Line Chart
+          <img width="1557" height="727" alt="image" src="https://github.com/user-attachments/assets/f517d8ba-1f0a-4db6-9748-efc323775ec8" />
+        2. Drag: ○ Date → X-axis, ○ Sales → Values
+          <img width="1501" height="801" alt="image" src="https://github.com/user-attachments/assets/eb924e17-ba5f-4d46-8b20-61e2063cf808" />
+        Question:
+          ● Is there growth?
+            - None, Its goes down from the date year of 2024 the sum of sale is about 202487 then went down to 17742 of date year 2025
+          ● Any noticeable trend?
+            - There is a significant decrease from 2024 to 2025
+
+
+
 
   
 
