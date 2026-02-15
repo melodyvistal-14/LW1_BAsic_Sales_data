@@ -72,13 +72,19 @@ Step 4: Sales Over Time
 PART 4: Basic Data Insight Interpretation
 ● Which region contributes most revenue?
    - its the WEST
+
 ● Which product category performs best?
    - its the ELECTRONIC
+
 ● Are sales consistent across dates?
    - NO, it decrease from 2024 to 2025
+
 ● What business recommendation can you suggest?
    - Food Court 
 
+LABORATORY QUESTIONS
+
+Part A – Technical Questions
 
 
 
