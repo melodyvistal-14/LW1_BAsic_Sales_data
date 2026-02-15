@@ -1,11 +1,12 @@
 # LW1_BAsic_Sales_data
+PART 1: Launching Power BI & Loading Data
 
 Step 1: -Open Power BI Desktop, Click Start, Open Microsoft Power BI Desktop
                 <img width="1714" height="907" alt="image" src="https://github.com/user-attachments/assets/976a95ef-1a0c-487f-b8e7-02456ba4a065" />
                 
 Step 2: Load the Dataset
         1. Click Home Tab
-                <img width="1851" height="931" alt="Screenshot 2026-02-12 115342" src="https://github.com/user-attachments/assets/77ad7bd3-c801-458e-a7da-97fe44444422" />
+                 <img width="1851" height="931" alt="Screenshot 2026-02-12 115342" src="https://github.com/user-attachments/assets/77ad7bd3-c801-458e-a7da-97fe44444422" />
         2. Click Get Data
                 <img width="303" height="192" alt="Screenshot 2026-02-12 115425" src="https://github.com/user-attachments/assets/879c5850-4378-422d-a595-aa1758ec536e" />
         3. Select Text/CSV
