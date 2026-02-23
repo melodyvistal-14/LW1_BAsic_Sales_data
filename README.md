@@ -136,6 +136,15 @@ Question:
 Task 2: Add Slicer: 1. Insert Slicer, 2. Drag Region, 3. Test filtering
    - <img width="1660" height="467" alt="image" src="https://github.com/user-attachments/assets/c1a67340-6b89-4a39-9497-18a142863370" />
 
+Question:
+● What happens to other visuals when you click a region?
+    - When you click a region like North, the other charts update to show data for that region only. This is called cross-filtering.
+
+● Why is filtering important in BI?
+    - Filtering is important in BI because it helps you focus on specific data, compare results, spot trends quickly, and make better decisions.
+
+
+
 
 
 
