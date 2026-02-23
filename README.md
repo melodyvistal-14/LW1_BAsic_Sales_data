@@ -86,6 +86,25 @@ LABORATORY QUESTIONS
 
 Part A – Technical Questions
 
+  1. What are the five columns in the dataset?
+     - Category
+     - Date
+     - Product
+     - Region
+     - Sale
+
+  2. What data type is assigned to the “Sales” column?
+     - Decimal Number
+
+  3. Which Power BI view allows you to see raw data?
+     - Data View
+
+  4. What chart type is best for showing trends over time?
+     - Line Chart
+
+  5. What aggregation is automatically applied to Sales?
+     - Sum
+
 
 
 
