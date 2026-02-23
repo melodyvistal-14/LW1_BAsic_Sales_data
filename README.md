@@ -105,7 +105,22 @@ Part A – Technical Questions
   5. What aggregation is automatically applied to Sales?
      - Sum
 
+Part B – Analytical Questions
 
+  6. Which region has the highest total sales?
+     - It is the West region that has the highest total sales.
+
+  7. Which category has the lowest performance?
+     - Office Supplies shows the lowest overall sales performance.
+
+  8. Are sales increasing, decreasing, or stable?
+     - Sales are clearly decreasing, as shown by the sharp drop from 2024 to 2025.
+
+  9. If you were a manager, which region would you prioritize?
+      - I would prioritize the lowest-performing region like north to improve performance while maintaining strong regions like the West.
+
+  10. Provide one actionable recommendation based on the data.
+      - I Find out why sales dropped in 2025 and run special promotions in the weaker regions and product categories to boost sales.
 
 
   
