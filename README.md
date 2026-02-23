@@ -133,7 +133,7 @@ Question:
 ● What is the total sales amount?
     - 220k is the tTotal Sale
 
-Task 2: Add Slicer: 1. Insert Slicer, 2. Drag Region, 3. Test filtering
+Task 2:( Add Slicer: 1. Insert Slicer, 2. Drag Region, 3. Test filtering )
    - <img width="1660" height="467" alt="image" src="https://github.com/user-attachments/assets/c1a67340-6b89-4a39-9497-18a142863370" />
 
 Question:
@@ -143,14 +143,23 @@ Question:
 ● Why is filtering important in BI?
     - Filtering is important in BI because it helps you focus on specific data, compare results, spot trends quickly, and make better decisions.
 
+Task 3: Sort Sales:(1. Click Region Chart, 2. Click three dots (...), 3. Sort by Sales Descending)
+    - <img width="1710" height="662" alt="image" src="https://github.com/user-attachments/assets/20a09b7b-35bf-4c22-9033-f429b0c215e0" />
 
-
-
-
-
-
-
+Question:
+● Does sorting improve readability?
+  - Yes, sorting improves readability.
   
+● Why?
+  - Because it puts the data in order, making it easier to compare and see which products or regions perform best or worst.
+
+Task 4: Identify Outliers
+● Which region is significantly higher or lower?
+  - West is higher, and North is lower.
+  
+● What might explain that difference?
+  - West may have more customers or higher demand than North.
+
 
 
 
