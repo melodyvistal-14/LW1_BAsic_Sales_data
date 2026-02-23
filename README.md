@@ -123,6 +123,24 @@ Part B – Analytical Questions
       - I Find out why sales dropped in 2025 and run special promotions in the weaker regions and product categories to boost sales.
 
 
+ENHANCEMENT SECTION
+
+Advanced Exploration:
+
+Task 1: Add a Card Visualization (1. Insert Card, 2. Drag Sales, 3. Format: ○ Increase font size, ○ Change title to “Total Sales”)
+        <img width="1425" height="632" alt="image" src="https://github.com/user-attachments/assets/91b3706a-d192-4e8d-96d3-476c6b31ed2b" />
+Question:
+● What is the total sales amount?
+    - 220k is the tTotal Sale
+
+Task 2: Add Slicer: 1. Insert Slicer, 2. Drag Region, 3. Test filtering
+   - <img width="1660" height="467" alt="image" src="https://github.com/user-attachments/assets/c1a67340-6b89-4a39-9497-18a142863370" />
+
+
+
+
+
+
   
 
 
