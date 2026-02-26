@@ -1,5 +1,6 @@
 # LW1_BAsic_Sales_data
 PDF Activity 1: https://drive.google.com/file/d/1vPjhjcyBFcf8zrVPgK_3sFBqcK2lkG-W/view?usp=drive_link
+
 PART 1: Launching Power BI & Loading Data
 
 Step 1: -Open Power BI Desktop, Click Start, Open Microsoft Power BI Desktop
