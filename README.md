@@ -3,6 +3,7 @@ PART 1: Launching Power BI & Loading Data
 
 Step 1: -Open Power BI Desktop, Click Start, Open Microsoft Power BI Desktop
                 <img width="1714" height="907" alt="image" src="https://github.com/user-attachments/assets/976a95ef-1a0c-487f-b8e7-02456ba4a065" />
+
                 
 Step 2: Load the Dataset
         1. Click Home Tab
@@ -15,6 +16,8 @@ Step 2: Load the Dataset
                 <img width="965" height="586" alt="Screenshot 2026-02-12 115557" src="https://github.com/user-attachments/assets/f3729304-787e-41b0-8654-1998bc677f7c" />
         5. Click Load
                 <img width="869" height="569" alt="Screenshot 2026-02-12 213714" src="https://github.com/user-attachments/assets/db8678ca-1b7b-447e-a4fb-5bee0d14e36d" />
+
+
                 
 Step 3: Verify Data in Data View
         1. Click the Data View icon (table icon on the left)
@@ -26,11 +29,16 @@ Step 3: Verify Data in Data View
                    <img width="1910" height="999" alt="Screenshot 2026-02-12 120632" src="https://github.com/user-attachments/assets/ad3aed68-a274-4daf-9dc8-7504adabb296" />
            ○ Is “Sales” formatted as Decimal Number?
                    <img width="1789" height="735" alt="Screenshot 2026-02-12 120718" src="https://github.com/user-attachments/assets/98b4284f-8db0-46c6-a301-b36e2d89e2da" />
+
+
                    
 PART 2: Exploring the Interface
         <img width="1919" height="1027" alt="Screenshot 2026-02-12 121239" src="https://github.com/user-attachments/assets/b3732db7-fb5a-4dae-a9c3-92b5bc348600" />
+
+
         
 PART 3: Creating Auto-Generated Visuals
+
 
 Step 1: Quick Visualization
         1. Drag Sales into canvas & 2. Power BI automatically creates a visual
@@ -40,6 +48,8 @@ Step 1: Quick Visualization
               - It a Clustered Column Chart
               ● What does it show?
               - Its shows that the sume of sale is 220229
+
+              
 Step 2: Create a Sales by Region Chart
         1. Click blank canvas & 2. Select Clustered Column Chart
               <img width="1698" height="694" alt="Screenshot 2026-02-12 145106" src="https://github.com/user-attachments/assets/a55f7b15-63ba-46d8-adea-0586abcc1524" />
@@ -48,6 +58,8 @@ Step 2: Create a Sales by Region Chart
         Question:
           ● Which region has highest sales?
               - Its a the WEST region who got the highest sum of sales that 59041
+
+              
 Step 3: Sales by Category
         1. Insert a Pie Chart
           <img width="1616" height="578" alt="Screenshot 2026-02-12 145804" src="https://github.com/user-attachments/assets/52c2d7e9-3a2c-47ee-856c-ba0d1984077a" />
@@ -58,6 +70,8 @@ Step 3: Sales by Category
            - Its the Electronic 
           ● Is the distribution balanced?
            - The distribution is not balanced.
+
+           
 Step 4: Sales Over Time
         1. Insert Line Chart
           <img width="1557" height="727" alt="image" src="https://github.com/user-attachments/assets/f517d8ba-1f0a-4db6-9748-efc323775ec8" />
@@ -68,19 +82,25 @@ Step 4: Sales Over Time
             - None, Its goes down from the date year of 2024 the sum of sale is about 202487 then went down to 17742 of date year 2025
           ● Any noticeable trend?
             - There is a significant decrease from 2024 to 2025
+
+            
             
 PART 4: Basic Data Insight Interpretation
 ● Which region contributes most revenue?
    - its the WEST
 
+
 ● Which product category performs best?
    - its the ELECTRONIC
+
 
 ● Are sales consistent across dates?
    - NO, it decrease from 2024 to 2025
 
+
 ● What business recommendation can you suggest?
    - Food Court 
+
 
 LABORATORY QUESTIONS
 
